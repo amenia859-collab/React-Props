@@ -1,0 +1,11 @@
+.mb-4 {
+  color: #e66465;
+}
+
+.card {
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
